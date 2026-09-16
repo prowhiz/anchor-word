@@ -4,6 +4,12 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.3.1 (build 8) — 16 September 2026
+
+- **The translation menu shows five translations and scrolls the rest.** With
+  several texts on the phone it filled the screen; now it is a short list under
+  the chip, with "More translations" below it as before.
+
 ## 0.3.0 (build 7) — 16 September 2026
 
 The app looks like itself now, and the translation menu works with a long

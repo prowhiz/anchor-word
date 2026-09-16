@@ -4,6 +4,37 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.4.0 (build 9) — 17 September 2026
+
+Your phone and your tablet can hold the same library now. Everything is under
+Settings → Sync with another device.
+
+- **Sync through a folder.** Choose a folder, and point a sync app —
+  Syncthing, or FolderSync — at the same folder on each device. Anchor Word
+  leaves its library there and brings in the others' whenever it opens, comes
+  back, or has something new.
+- **Or sync with your own server**: sign in to Nextcloud in your browser, or
+  give the address and account of another WebDAV server. The server needs an
+  https address. Anchor Word gets an app password from Nextcloud, which it
+  takes back when you stop syncing.
+- **A sync phrase keeps the copies private.** The first device makes one and
+  shows it once: write it down, and type it on each other device when you set
+  it up. Without it nobody can open what is in the folder or on the server.
+- **Notes, highlights, bookmarks, folders and your reading settings travel.**
+  Downloaded translations and imported texts stay on the device that has them,
+  and so do the text size, true black and the translation you are reading.
+- **A note written in on both devices is kept twice**, the other copy named
+  "(from …)" after the device it came from, and the app says so.
+- **Name each device** on the same screen, so the others know what to call it.
+- **Or send your library by hand**, as one file, and bring it in on the other
+  device.
+- **"Licences · text sources" is now "Where the texts come from"**, and no
+  longer lists as planned a source that is already in the app.
+
+The first time this build opens, your library is updated so that devices can
+tell who changed what. A backup made before updating can be restored into
+this build if you ever need to.
+
 ## 0.3.1 (build 8) — 16 September 2026
 
 - **The translation menu shows five translations and scrolls the rest.** With

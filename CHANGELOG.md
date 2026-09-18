@@ -4,6 +4,30 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.6.0 (build 11) — 18 September 2026
+
+From this release on, the app tells you when it has been updated, and what
+changed.
+
+- **What's new** is in Settings, above Version: every release, newest first.
+  The first time you open the app after an update, a message at the bottom
+  says so, with a button that opens it.
+- **Everything you can tap is easier to hit.** Every button, chip and link is
+  now at least the size Android asks for, including the chapter arrows, the
+  chips under a note's title and the Library's back link. The chapter bar at
+  the bottom of the reader is a little taller.
+- **Type size is one control**, not thirteen. Tap along the row of marks as
+  before, or with TalkBack, swipe up or down to change it a point at a time.
+- **The fonts are credited.** Sources & licences names the three typefaces
+  the app is drawn in and who made them, and prints their licence in full.
+- **The King James Version's notice is corrected.** It says the text is in
+  the public domain outside the United Kingdom, and that in the United Kingdom
+  its rights are vested in the Crown. It no longer gives a date for them to
+  end.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.5.0.
+
 ## 0.5.0 (build 10) — 18 September 2026
 
 Settings has been rebuilt: a short page of contents, with a page for each

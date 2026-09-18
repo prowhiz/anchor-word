@@ -4,6 +4,58 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.5.0 (build 10) — 18 September 2026
+
+Settings has been rebuilt: a short page of contents, with a page for each
+thing it covers. The gear at the top of the reader, the Library and Search
+opens it.
+
+- **Reading & display** holds every reading setting, with a passage above them
+  that changes as you do, and one reset. The reset no longer changes the
+  translation you are reading.
+- **Resources** replaces Storage. Every translation and study tool opens onto
+  a page of its own, which says what it is, what it works with and whose it
+  is. That page is where you remove it, with Undo straight after.
+- **Put your translations in your own order**, by dragging, under Resources →
+  Translation order. The translation menu, Compare and Search list them that
+  way. The order stays on this phone.
+- **Rename an imported translation** from its page: its name, abbreviation,
+  language and licence. Quotes already in your notes keep the old
+  abbreviation.
+- **Sync is set up a step at a time**, one choice to a page, and back undoes
+  the last one. Moving your library by hand is now "Send a file", offered
+  while sync is off.
+- **Backup & export share a page.** A backup is always everything. Export makes
+  one file of your notes, highlights and bookmarks: whichever you tick.
+- **Sources & licences** credits every text and tool on the phone.
+- **Back goes one step**, to the page you came from and to the same place on
+  it, whether you use the arrow or your phone's back.
+
+From a note:
+
+- **Read a note's passage in context.** Tap the passage the note is anchored
+  to, or a reference in its text, and choose Read in context. Back to note
+  brings you home.
+- **Two ways into scripture.** In the formatting row, the open book now goes to
+  the reader, at the chapter you last read, and a new search button goes to
+  Search, taking the words you had selected with it. Link puts the reference
+  in place of the words you searched for; Quote puts the passage after them.
+
+And smaller things:
+
+- **The translation menu shows when there is more below**, with a fade and a
+  scroll bar, and only when there is. Its last row, Manage translations, opens
+  Resources.
+- **An import that marks no words of Christ says so** before it is built, so
+  you know it is the file and not the app.
+- **Messages say how it went**: a green check when a backup, export, import or
+  update finishes, and a red mark when something you asked for fails.
+- **The status bar follows the app's theme**, not the phone's, so the clock
+  stays readable in the dark theme on a light phone.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.4.0.
+
 ## 0.4.0 (build 9) — 17 September 2026
 
 Your phone and your tablet can hold the same library now. Everything is under

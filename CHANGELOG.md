@@ -4,6 +4,27 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.7.0 (build 12) — 19 September 2026
+
+Smaller changes, to writing a note and to What's new.
+
+- **Cancel takes you back to writing.** While you write a note, the book and
+  search buttons take you to find a passage. Cancel, or your phone's back
+  button, now brings you back to the sentence you were writing with the
+  keyboard up, not to the note being read. Come back with a passage and the
+  caret is after it, so you can keep typing.
+- **An empty note says "Start with a verse, a question or a thought."** There
+  is no need to type @ before a reference: finish typing one, like John 3:16,
+  and the app offers to link it.
+- **Tap an empty note to start writing in it.** A note with words in it still
+  needs the pencil, so a stray tap can't change it.
+- **What's new marks the releases you missed.** If you skip an update, each
+  release since the version you had is marked "New since" it. That works for
+  updates from 0.6.0 on.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.6.0.
+
 ## 0.6.0 (build 11) — 18 September 2026
 
 From this release on, the app tells you when it has been updated, and what

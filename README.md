@@ -18,13 +18,14 @@ the newest one.
    bookmarks and settings stay.
 
 **Don't uninstall to update.** Uninstalling deletes everything you have
-written. Before uninstalling for any reason, use **Settings → Backup → Back up
-everything**, which writes one file you can restore from.
+written. Before uninstalling for any reason, use **Settings → Backup & export →
+Back up now**, which writes one file you can restore from.
 
 ## What's in it
 
 - The King James Version, offline, in the app. More translations download from
-  **Settings → Manage downloads**.
+  **Settings → Resources**, or from **Manage translations** at the foot of the
+  translation menu.
 - Highlights, bookmarks, and notes attached to a verse or a passage, in folders
   if you like.
 - Search across the Bible and your own notes.
@@ -32,15 +33,18 @@ everything**, which writes one file you can restore from.
   Greek behind a word, each from a download.
 - Your own translation files — Zefania XML, OSIS or USFX, in any language —
   read on the phone, with nothing sent anywhere.
+- The same notes on your phone and your tablet, through a folder a sync app
+  carries or your own Nextcloud or WebDAV server, locked with a phrase only
+  your devices know. **Settings → Sync**.
 
 ## Telling us something is wrong
 
-**Settings → Feedback → Send feedback** writes an email with the version, the
-build number and your phone's details already in it. Or open an
+**Settings → Send feedback** writes an email with the version, the build
+number and your phone's details already in it. Or open an
 [issue](../../issues) here.
 
-Please include the version and build number from **Settings → About**, such as
-"0.3.0 (build 7)".
+Please include the version and build number, shown at the foot of **Settings**,
+such as "0.5.0 (build 10)". Tapping it copies them.
 
 ## What changed, and when
 

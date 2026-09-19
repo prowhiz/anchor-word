@@ -4,6 +4,29 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.10.0 (build 15) — 19 September 2026
+
+The screen stays on while you read, and back remembers your translation.
+
+- **The screen stays on while you read.** It no longer dims or goes dark
+  while Anchor Word is open. Once the app has gone 10 minutes without a
+  touch, your phone's own screen timeout takes over again. To turn this off,
+  go to Settings → Reading & display → Keep screen on while reading.
+- **Back returns to the translation you left.** If you switch translation
+  while reading, the back arrow takes you to the one you were reading, at the
+  same place, and forward takes you to the new one again.
+- **Select a whole note, or copy it as plain text.** In an open note's menu,
+  Select text lets you select across the whole note at once, where a selection
+  used to stop at the end of each paragraph. Copy text copies a note without
+  its formatting marks, ready to paste anywhere. Select several notes in the
+  Library to copy them together.
+- **What's new is shorter.** The newest release is shown in full, along with
+  any you missed since your last update. Earlier releases fold to a line each:
+  tap one to read it.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.9.0 (build 14) — 19 September 2026
 
 Notes can hold more, and the app fits a tablet.

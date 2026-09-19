@@ -4,6 +4,42 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.9.0 (build 14) — 19 September 2026
+
+Notes can hold more, and the app fits a tablet.
+
+- **Rules, checklists and marked phrases in notes.** Type "---" on a line of
+  its own for a line between one thought and the next. Start a line with
+  "- [ ]", or use the new Checklist button above the keyboard, for a
+  checklist: tick its boxes while you read the note, without editing it. Put
+  "==" either side of words to mark them the way a verse is highlighted.
+- **Slate is the new default theme.** If you never chose a theme, the app now
+  opens in Slate. Parchment is still in the Aa sheet if you'd rather keep it.
+- **The launch screen wears your theme**, with a new anchor and the app's
+  name beneath it, on Android 13 and later. The app's icon is redrawn too.
+- **On a tablet, everything keeps to a readable width.** Scripture and notes
+  run to a comfortable line length at any type size, and sheets, Settings,
+  the Library and Search sit in a centred column instead of stretching edge
+  to edge.
+- **Messages stay out of the way.** While you write, a message sits above the
+  row of buttons over the keyboard, not on top of it. Swipe any message
+  sideways to dismiss it.
+- **A note's dates sit at the foot of the page**, instead of floating partway
+  down a short note.
+- **More XML Bibles import**, including ones that name their books in their
+  own language. The Import row says it reads XML Bible files, and it now
+  comes first under More translations.
+- **The translation menu's last row says "Get more or import your own"**,
+  instead of counting the translations you haven't downloaded.
+- **Check for updates is a row at the foot of Resources**, and the space your
+  translations take is shown under the page's title.
+- **A sync that's working no longer looks like a warning.** Its card stays
+  plain; only a sync that failed is coloured.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.8.0. A note that uses the new marks shows them as typed on
+a device still on 0.8.0.
+
 ## 0.8.0 (build 13) — 19 September 2026
 
 Six themes, each with a light side and a dark one.

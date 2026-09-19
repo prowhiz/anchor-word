@@ -4,6 +4,28 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.8.0 (build 13) — 19 September 2026
+
+Six themes, each with a light side and a dark one.
+
+- **Choose a theme** from the row of Aa tiles in the Aa sheet, or under
+  Settings → Reading & display: Parchment, Paper, Slate, Sage, Dusk and High
+  contrast. Auto, Light and Dark still choose between its light and dark
+  sides, and True black works with every theme. Your theme goes to your
+  other devices with the rest of your reading settings.
+- **Each theme has its own red** for the words of Christ, and its own shades
+  of the five highlight colours, so every highlight stays clear on its page.
+  Parchment looks exactly as it did.
+- **Undo and Redo lead the row of buttons above the keyboard** while you
+  write a note. Redo used to be a message that covered that row.
+- **Searching from a note takes up to ten of the words you selected**, enough
+  for most lines you remember, where it took four.
+- **"Press back again to close" no longer greets you** when you open the app
+  after closing it with the back button.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.7.0.
+
 ## 0.7.0 (build 12) — 19 September 2026
 
 Smaller changes, to writing a note and to What's new.

@@ -4,6 +4,30 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.12.0 (build 17) — 20 September 2026
+
+In Word Study a tap is for words and a hold is for the verse, the controls at
+the top right answer a press, and a sheet comes down to the size of what is in
+it.
+
+- **In Word Study, a tap is for words and a hold is for the verse.** Tapping
+  in the gap between two words used to select the verse, so what happened
+  turned on where your finger landed rather than on what you meant. The words
+  own the tap now, and a tap that finds no word tells you to press and hold the
+  verse instead. Two verses keep their tap: one Word Study has nothing to say
+  about, and any verse while a selection is open. Outside Word Study nothing
+  changes.
+- **The controls at the top right answer a press.** The translation chip gives
+  a little under your finger, and a bare icon goes a shade smaller inside a
+  circle, so a touch is answered by the control you touched rather than by the
+  whole row fading. The air inside the pill is even now as well — it used to
+  sit tight against the chip at one end and loose against the gear at the
+  other.
+- **A sheet comes down to the size of what is in it.** A passage of one short
+  verse opened a panel a third of the way up the screen with most of it empty.
+  A verse's notes and a passage from a note now stand exactly as tall as what
+  they hold, and no taller.
+
 ## 0.11.0 (build 16) — 20 September 2026
 
 Press and hold a verse to select it, Paper is the theme the app opens in, and

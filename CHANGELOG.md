@@ -4,6 +4,38 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.11.0 (build 16) — 20 September 2026
+
+Press and hold a verse to select it, Paper is the theme the app opens in, and
+sheets fit what is in them.
+
+- **Press and hold a verse to select it.** A hold does what a tap does:
+  selects the verse, adds it to a selection, or takes it out again. It works
+  on the words themselves, which matters most in Word Study, where nearly
+  every word is one you can tap to look up. While verses are selected,
+  tapping a word counts as tapping its verse; with nothing selected, a word
+  opens as before. Turning Word Study on now says so for a few seconds.
+- **Paper is the theme the app opens in.** If you have never chosen one, the
+  app now opens in Paper, where it opened in Slate. The theme you chose is
+  untouched, and every theme is still in the Aa sheet, which now lists the
+  default first.
+- **A sheet fits what is in it.** Opening a verse's notes, or a passage from
+  a note, used to leave the last line cut off above the button, or a band of
+  empty space under a short one. Both sheets now stand as tall as what they
+  hold.
+- **A bookmark that moves says so.** A book keeps one bookmark, so
+  bookmarking a second place moves it. The message now says "Bookmark moved
+  to Psalms 27:9" rather than reading as though you had made a second one.
+  Undo still puts it back.
+- **Compare says whose order it is in.** Its footer said translations were
+  listed in the order they were installed. They follow your own translation
+  order, which you can change in Resources, and it now says so.
+- **The app says "this device" where it said "this phone."** On a tablet,
+  "Remove from this phone" named the wrong thing.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.10.0 (build 15) — 19 September 2026
 
 The screen stays on while you read, and back remembers your translation.

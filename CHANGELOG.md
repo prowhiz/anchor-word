@@ -4,6 +4,57 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.13.0 (build 18) — 22 September 2026
+
+Name your highlight colours, sort notes by the day you made them, and set up
+word study in one step.
+
+- **Name your highlight colours.** In Library → Highlights, choose a colour
+  and tap it again to give it a name of your own, such as Promises or
+  Questions. A few words are offered to start from, or you can type your own.
+  The name then appears under a verse's reference when you select it, in the
+  message when you highlight, and in anything you share or export. Nothing
+  changes until you name a colour. Search results and phrases marked in a
+  note are now shown in grey rather than yellow, so they don't look like one
+  of your named colours.
+- **Sort notes by the day you made them.** The Library's sort offers Date
+  created beside Last edited, for all your notes, a folder's notes and your
+  folders. In that order, editing a note doesn't move it, and each card shows
+  the day the note was made.
+- **Word study says everything it needs.** Turning it on used to offer one
+  download, and the word sheet then showed dashes and apologies for the
+  others it needed. Now it lists them all: the tags for the translation you
+  are reading, Strong's dictionary, and the Hebrew and Greek texts. What is
+  already on your phone is ticked, and one button gets the rest while you
+  keep reading. Reading & display has Set up word study and Set up
+  cross-references, which work the same way.
+- **The word sheet shows only what it can answer.** A row appears once the
+  download behind it is on your phone, and a dash now means the word has
+  none rather than that something is missing. Its last line says what a
+  download would add, and tapping it shows what to get, over the word, which
+  fills in as it arrives.
+- **Downloads are smaller, and say so.** Packages now come down compressed,
+  about a third of their size. The KJV's word study tags download as 12 MB,
+  where they were 35. Every Get button quotes what actually downloads, and a
+  package's page shows both that and the space it takes on your phone.
+- **Resources groups its study tools by what they do**: Word study, Full
+  dictionary entries and Cross-references, with Get all at the head of a
+  group that is missing more than one. A tool's "Used for" line is no longer
+  cut short.
+- **Downloads behind a failed one say "on hold"**, rather than promising to
+  go next, until you try again.
+- **Sheets with a text field sit just above the keyboard.** The passage picker
+  no longer opens with its top under the status bar, and New folder no longer
+  floats a keyboard's height too high.
+- **Finding a passage for a note** shows a plain bar rather than a pink one,
+  and its way back to the note is a button.
+- **A fresh install opens on what the app can do**, with word study one tap
+  away. If you are updating, you won't see this.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0. Colour names you give reach your other devices once
+they are on 0.13.0 too; until then they simply don't appear there.
+
 ## 0.12.0 (build 17) — 20 September 2026
 
 In Word Study a tap is for words and a hold is for the verse, the controls at

@@ -4,6 +4,17 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.14.1 (build 20) — 23 September 2026
+
+Verse references open again.
+
+- **Tapping a verse reference opens it.** In 0.14.0, tapping a verse
+  reference in a full entry, or a verse link in a note, could do nothing at
+  all. The verse now comes up in its sheet as it should.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.14.0 (build 19) — 23 September 2026
 
 Studying a word or a verse no longer takes you away from what you were

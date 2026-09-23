@@ -4,6 +4,32 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.14.0 (build 19) — 23 September 2026
+
+Studying a word or a verse no longer takes you away from what you were
+reading, and search keeps going to the last verse.
+
+- **Verse references in a full entry open in place.** Tap one in a Greek or
+  Hebrew entry and the verse appears in a sheet over the entry, as references
+  in a note do. Read in context takes you to the chapter, with a bar at the
+  top, and Back to entry returns you to the entry where you left it, with the
+  chapter you were reading still behind it.
+- **Back from a word's full entry, or from its uses, reopens the word.** The
+  word sheet comes back over the verse you tapped it in.
+- **Uses opens on the word's verses.** Tapping the uses on a word sheet now
+  goes straight to the verses, with the word highlighted in each, rather than
+  to a list of words to choose from. Take a verse from the list and Back
+  brings you to the list again, where you left it.
+- **Search and a word's uses go on to the end.** Both used to stop at 200
+  verses without saying so. They now keep loading as you scroll, and say how
+  many there are in all: 23,560 for "the", for example. Search also
+  remembers how far down you were when you come back to it.
+- **Sheets come up smoothly.** A sheet opening over a full entry could
+  shudder, or rise past its place and drop back. It now rises once and stops.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.13.0 (build 18) — 22 September 2026
 
 Name your highlight colours, sort notes by the day you made them, and set up

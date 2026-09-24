@@ -4,6 +4,53 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.16.0 (build 22) — 24 September 2026
+
+The World English Bible has a Catholic Edition, and a Bible you import
+keeps its deuterocanonical books.
+
+- **The WEB, Catholic Edition.** Update the World English Bible in Resources
+  and a second text comes with it: World English Bible, Catholic Edition. It
+  has Tobit, Judith, 1 and 2 Maccabees, Wisdom, Sirach and Baruch, and reads
+  Esther and Daniel in their Greek form. It sits beside the WEB in your
+  translation menu, and a long name there now wraps onto a second line
+  rather than being cut off.
+- **Imported Bibles keep every book.** A file with the Apocrypha or the
+  deuterocanon, such as the King James with Apocrypha or the Douay-Rheims,
+  used to lose those books on import. They are kept now, in the order the
+  file gives them, under Apocrypha in the book picker.
+- **Each Bible lists its own books.** The book picker shows only the books
+  the text you are reading has, so a New Testament on its own no longer
+  offers Genesis.
+- **A book this text doesn't have says where it is.** If you switch to a
+  text without the book you are reading, or type one it lacks, the app stays
+  on that passage and names the texts you have that include it.
+- **Hb means Hebrews.** Typing hb used to find Habakkuk; hab still does.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
+## 0.15.0 (build 21) — 23 September 2026
+
+A Bible you import can keep its Strong's numbers, so word study works in it
+as it does in the King James.
+
+- **Word study in a Bible you import.** Many XML Bible files carry Strong's
+  numbers on their words, and the app used to leave them out. When you import
+  one now, the review says how many words carry a number and how well the
+  numbers fit the words they are on. A switch, Word study from this file's
+  numbers, keeps them. It starts on where they fit and off where they look
+  misplaced, and you can turn it either way. Keeping them takes more room on
+  your phone, and the review says about how much.
+- **Kept, they work as the King James's do.** The words are underlined. Tap
+  one for the Hebrew or Greek behind it, and its uses are counted in that
+  text. The word sheet says the numbers came from your file.
+- **Resources says which imports kept their numbers.** An import that did
+  shows Strong's tags, and its page says how well they fit.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.14.1 (build 20) — 23 September 2026
 
 Verse references open again.

@@ -4,6 +4,35 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.17.0 (build 23) — 25 September 2026
+
+Anchor Word now updates itself, so this is the last version you should need
+to install from a file.
+
+- **Updates come to you.** When a new version is out, the app downloads it
+  on Wi-Fi while you read, then says it is ready to install. Tap **Install**
+  and Android asks you to confirm. The first time, Android also asks you to
+  allow installs from Anchor Word, and the app says why before it sends you
+  there. Play Protect may offer to scan the update, as it did when you first
+  installed the app. Your notes, highlights and settings stay as they are.
+- **On mobile data it asks first.** Nothing downloads without Wi-Fi unless
+  you say so: the app tells you the size and offers to download it. Settings,
+  under About, has **App update**, which shows what the new version changes
+  and has a switch to let updates use mobile data.
+- **If a version has a serious problem,** the app says so when it opens, with
+  a way to update to the one that fixes it. You can still read first.
+- **Quote from another text.** Typing @ and a reference in a note offers
+  Quote, and the quote now names the text it comes from. The arrow beside it
+  lists your other texts, and the one you pick is used for your next quote
+  too.
+- **A book your text doesn't have is said once.** Type one, and the picker
+  says so, offers the first of your texts that has it, and gathers any others
+  under a line like 2 more texts have it.
+- **Search no longer closes** when you type a second word, such as my reins.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.16.0 (build 22) — 24 September 2026
 
 The World English Bible has a Catholic Edition, and a Bible you import

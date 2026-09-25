@@ -4,6 +4,26 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.18.0 (build 24) — 25 September 2026
+
+Anchor Word is less than half the size it was, and it reached you by
+updating itself.
+
+- **A much smaller app.** The download is less than half its old size, and it
+  takes a little less room on your phone once installed. Nothing it does has
+  changed: the app now leaves out code and pictures it never used.
+- **A verse note you leave empty says so.** Start a note from a verse and
+  leave without writing anything, and the app now tells you it wasn't saved,
+  with Undo to keep it. Before, it disappeared without a word, though it
+  looked written because it opens with the verse quoted.
+- **A reference you type is named in full.** Type a reference in a note, such
+  as 1 thess 5:16-18, and the offer above the keyboard names it on a line of
+  its own as 1 Thessalonians 5:16-18, so it is no longer cut off and you can
+  see what the app understood.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.17.0 (build 23) — 25 September 2026
 
 Anchor Word now updates itself, so this is the last version you should need

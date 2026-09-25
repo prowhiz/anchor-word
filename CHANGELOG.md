@@ -4,6 +4,24 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.19.0 (build 25) — 25 September 2026
+
+Word study looks the way it was meant to, and Strong's dictionary reads
+more as Strong wrote it.
+
+- **Underlines in the accent colour.** With word study on, the words you can
+  tap are underlined in a thin line of your theme's accent colour. Before,
+  the line was the colour of the text itself.
+- **Fuller Greek and Hebrew entries.** Some Greek entries had lost the Greek
+  words Strong cites, so a derivation read like perhaps from (much). They
+  have them back. Some Hebrew entries had an editor's note in the middle of
+  Strong's text, and three were cut short. They now read as Strong wrote
+  them. To get these, update Strong's dictionary in Resources. Settings
+  says when the update is there.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.18.0 (build 24) — 25 September 2026
 
 Anchor Word is less than half the size it was, and it reached you by

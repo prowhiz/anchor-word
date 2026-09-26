@@ -4,6 +4,34 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.20.0 (build 26) — 26 September 2026
+
+The arrows beside the reference now take you from one book into the next,
+and each action has one icon wherever it appears.
+
+- **Reading on past the end of a book.** On the last chapter of a book, the
+  › arrow now takes you to the first chapter of the next book. On a book's
+  first chapter, ‹ takes you back to the last chapter of the one before.
+  Before, both arrows stopped at the edge of every book. They follow the
+  order of the translation you are reading, Apocrypha included, and stop
+  only at its very first and last chapters.
+- **The bar under the page keeps its shape.** Now and then, soon after the
+  app opened, the rounded bar holding ‹, the reference and › shrank to a
+  thin sliver beside the bookmark. It stayed that way until you scrolled
+  the controls away and back. It now keeps its full width.
+- **One icon for each action.** Getting and updating a download now use the
+  same icon, in Resources, in Settings and for an app update. Before, an
+  update had a circled arrow that looked like a different action. Sharing a
+  verse uses the same icon as sharing a note, and the back arrow in a note
+  is now the same ‹ as on every other page.
+- **The privacy policy has a new section.** It covers the Anchor Word
+  website, which now counts how often its front page is opened and Download
+  is tapped. Each count is only a number, with nothing about who. Nothing
+  the app does with your information has changed.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.19.0 (build 25) — 25 September 2026
 
 Word study looks the way it was meant to, and Strong's dictionary reads

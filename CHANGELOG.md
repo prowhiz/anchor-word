@@ -4,6 +4,20 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.20.1 (build 27) — 26 September 2026
+
+The reference under the page names the first verses of a chapter again after
+you have read to its end.
+
+- **Back at the top, verse 1.** After scrolling to the end of a chapter and
+  back up, the reference under the page skipped the first few verses: at the
+  top of 2 Corinthians 5 it said 5:5, and the bookmark button would have put
+  a bookmark there. It now names verse 1 at the top, and each verse after it
+  as you read down, however far you went first.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.20.0 (build 26) — 26 September 2026
 
 The arrows beside the reference now take you from one book into the next,

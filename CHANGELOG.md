@@ -4,6 +4,39 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.21.0 (build 28) — 28 September 2026
+
+The Berean Standard Bible names its passages, and you can find a passage by
+its name.
+
+- **Headings over the passages.** In the Berean Standard Bible, each passage
+  has its name above it, the way the printed Berean does: The Creation over
+  Genesis 1, The Parable of the Prodigal Son over Luke 15:11. They are set in
+  plain type so they don't read as part of the text, and selecting,
+  highlighting or copying a verse never takes its heading with it. The
+  Psalms show their five books, and Psalm 119's stanza letters, ALEPH to TAW,
+  stand over its stanzas as they do in the King James. Update the Berean in
+  Resources when it offers the new version to see them.
+- **Turning them off.** Section headings, under Red letter in the reading
+  settings and in Settings, Reading & display, hides them. A psalm's own
+  title stays, because it is part of the text. A translation that has no
+  headings says so under the switch.
+- **Find a passage by its name.** Type prodigal in Search and The Parable of
+  the Prodigal Son, Luke 15:11-32, is at the top, above the verses. The
+  passage picker offers it too, as you type. The names come from any
+  translation you have that carries them, so you can find a passage by the
+  Berean's name while reading the King James, and it opens in the King James.
+- **The World English Bible names its additions.** The Song of the Three Holy
+  Children, Susanna, Bel and the Dragon and the Letter of Jeremy each have
+  their name above them. Update the World English Bible in Resources to see
+  them.
+- **Imported Bibles keep their headings.** A file with section headings now
+  keeps them, and the page before importing says how many. A Bible you
+  imported before this update needs importing again to get its headings.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.20.1 (build 27) — 26 September 2026
 
 The reference under the page names the first verses of a chapter again after

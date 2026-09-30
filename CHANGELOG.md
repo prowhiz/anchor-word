@@ -4,6 +4,35 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.22.0 (build 29) — 1 October 2026
+
+A commentary beside the text: the Tyndale Open Study Notes, on every book
+of the Bible.
+
+- **Notes on a verse.** Select a verse and tap Commentary, next to
+  Cross-refs. The number on the tile says whether that verse has a note of
+  its own. Where it has none, the sheet says so and offers the nearest
+  notes, or the passage the verse is part of. Get the notes the first time
+  you tap, or from Resources: about 3 MB.
+- **Notes on a chapter and a book.** The small book beside a chapter's
+  number opens the chapter's outline, and each book's introduction: its
+  purpose, author, date and setting.
+- **Links inside the notes.** A note that points to another note or passage
+  opens it in the same sheet. The pill at the top names where Back takes
+  you, and Android's Back steps out the same way. Read in context goes to
+  the passage in the reader, and Back brings you to the note again.
+- **The verse stays in view.** Cross-refs, Compare and the commentary open
+  with the verse they're about still showing above them.
+- **Credits at the foot.** The line saying where a text or its notes come
+  from now sits at the bottom of the sheet or page rather than in the
+  middle.
+- **Verse 1 after a chapter step.** Turning to a chapter with the ‹ ›
+  arrows could name its second verse at the top, so a bookmark marked the
+  wrong verse. It names verse 1 now.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.21.0 (build 28) — 28 September 2026
 
 The Berean Standard Bible names its passages, and you can find a passage by

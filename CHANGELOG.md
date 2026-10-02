@@ -4,6 +4,33 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.23.0 (build 30) — 2 October 2026
+
+Buttons look like buttons. Things you can do were drawn as plain rows, the
+same as the things in a list, so they were easy to miss.
+
+- **Resources.** Import from a file is a button at the top of More
+  translations. Change order heads your translations, in place of the
+  Translation order row, and Check for updates is a button too. Set up word
+  study says what word study does before its button.
+- **Backup and export.** Back up now, Restore from a backup and Export are
+  buttons, under when you last backed up.
+- **App update.** Download, Install and Check now are buttons, and so is the
+  one that opens Android's setting when an update needs it.
+- **Setting up a feature.** On a translation's page and in Reading and
+  display, Set up word study and Set up cross-references sit under the
+  switch or line they fix.
+- **Sync.** The sync phrase is hidden until you tap the eye beside it. Choose
+  another folder is a button under the folder. Send a file is two numbered
+  steps: send from this device, then bring it in on the other.
+- **Back closes the sheet.** Android's Back now closes the sheet that's open,
+  rather than the page or tab under it. That covers Export and Restore,
+  bringing in a library by hand, the bookmark menu, naming a highlight
+  colour, and Search's choice of book and translation.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.22.0 (build 29) — 1 October 2026
 
 A commentary beside the text: the Tyndale Open Study Notes, on every book

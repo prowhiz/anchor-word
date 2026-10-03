@@ -4,7 +4,25 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
-## 0.23.0 (build 30) — 2 October 2026
+## 0.24.0 (build 32) — 3 October 2026
+
+A note looks more like itself while you write it, not only once you read it
+back.
+
+- **Styled as you type.** Bold words are bold, italics are italic, marked
+  phrases are shaded, scripture links take the accent colour, a quoted line
+  is set in italic, and a heading is bolder. The symbols that make them stay
+  in the note, a shade lighter, so editing works just as before. The styling
+  arrives a moment after you stop typing, so it never gets in the way of
+  swipe typing.
+- **Text pasted from a computer.** A note pasted in from Windows could read
+  with its lines broken in the wrong place and letters missing, and its
+  checklist boxes would not tick. It now reads as it was written.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
+## 0.23.0 (build 31) — 2 October 2026
 
 Buttons look like buttons. Things you can do were drawn as plain rows, the
 same as the things in a list, so they were easy to miss.

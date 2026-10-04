@@ -4,6 +4,23 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.25.0 (build 33) — 4 October 2026
+
+Highlights work the way your thumb expects, in the Bible and in your notes.
+
+- **Tap a colour again to take it off.** Highlighted a verse by mistake? Tap
+  the same colour once more and it comes off, with Undo if you change your
+  mind. Colouring a verse no longer puts a message over the colours, so the
+  second tap is right where you left it.
+- **A highlighter for notes.** The formatting row has a Highlight button: pick
+  some words, tap it, and they are marked in the same yellow as a highlighted
+  verse, in every theme.
+- **Paragraphs read the way you typed them.** Press Enter twice between
+  paragraphs and the note reads back with one paragraph's gap, not two.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.24.0 (build 32) — 3 October 2026
 
 A note looks more like itself while you write it, not only once you read it

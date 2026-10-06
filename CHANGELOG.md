@@ -4,6 +4,37 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.26.0 (build 34) — 6 October 2026
+
+The app learned to explain itself, so you don't have to ask a friend what
+the red lines mean.
+
+- **The underlines calmed down.** Word study used to underline every word in
+  red, which looked a lot like a spellchecker having a bad day. They are a
+  quiet grey now, and the switch that draws them is called Word study mode.
+- **Tap a word, get its meaning first.** The word sheet opens on what the word
+  means. Strong's numbers, parsing and the rest wait under More detail, which
+  stays open once you've asked for it.
+- **Anchors look like anchors.** A note tied to a verse wears an anchor
+  instead of a pushpin, and taking it off is a named item in the note's menu.
+- **A cheat sheet for notes.** Open a note, tap ⋮, and Formatting lists every
+  mark a note understands.
+- **Every translation says how it reads**, so you can choose before you
+  download.
+- **Small things say what they mean.** Jumping to John 3:16 says "Verse 16 of
+  36". An empty Library says "None yet" instead of "0 books". The verse you
+  just jumped to wears a thin accent line, so it no longer looks selected.
+  After downloading cross-references, the last button opens them.
+- **Wrong guesses get real answers.** Tap a cross-reference letter, or try
+  word study in a translation it can't read, and the app tells you what will
+  work instead of shrugging.
+
+New to the app? It now starts with three short steps: choose your Bibles,
+meet word study, and start reading with a note that explains how notes work.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.25.0 (build 33) — 4 October 2026
 
 Highlights work the way your thumb expects, in the Bible and in your notes.

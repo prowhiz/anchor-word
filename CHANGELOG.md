@@ -4,6 +4,32 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.27.0 (build 35) — 7 October 2026
+
+Easier searching, and a few fixes.
+
+- **Search one book, or a few.** Before, you could only search the whole
+  Bible or a large part of it, such as the New Testament. Now tap Whole Bible
+  under the search field. This book searches the book you're reading, and
+  Choose books lets you pick any books, such as 1 and 2 Peter. It works for
+  books like Tobit and the Maccabees too, in Bibles that have them.
+- **Numbered lists no longer restart after a Bible quote.** A list with a
+  quote under each point used to number every point 1. Now the numbers carry
+  on. For a list written before this update, put the cursor on the quote and
+  tap Indent.
+- **True black is greyed out when it can't work.** With the theme set to
+  always light, the switch used to look active but did nothing.
+- **Note titles no longer cut off letters.** The bottoms of letters like g and
+  y were clipped in the title while you wrote.
+- **The first welcome screen no longer crowds its button** when your phone
+  uses large text.
+
+The privacy policy has a new section about testing the app through Google
+Play.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.26.0 (build 34) — 6 October 2026
 
 The app learned to explain itself, so you don't have to ask a friend what

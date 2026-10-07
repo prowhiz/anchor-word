@@ -4,6 +4,22 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.28.0 (build 36) — 8 October 2026
+
+Sharing highlights, and a tidier quote.
+
+- **Share highlights by selecting them.** Long-press a highlight in the
+  Library to select it, as you do with notes. The ⋮ menu shares or copies
+  each verse with its reference, copies them as Markdown, or removes them
+  with an Undo. The old Share button above the list, which sent only
+  references, is gone.
+- **A single quoted verse no longer shows its number.** The reference under
+  the quote already says which verse it is. A quote of several verses keeps
+  its numbers.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.27.0 (build 35) — 7 October 2026
 
 Easier searching, and a few fixes.

@@ -4,6 +4,19 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.30.0 (build 38) — 9 October 2026
+
+The American Standard Version is no longer offered to new readers.
+
+- **The ASV is no longer offered.** It was too close to the King James to
+  earn its place, and it has none of the word tagging or cross-references the
+  King James has. The first run and Resources no longer offer it to get. If
+  you already have it, nothing changes: it still reads, quotes and compares as
+  before. Removing it is now permanent, and its page says so.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.29.0 (build 37) — 8 October 2026
 
 See which folder a note lives in, and quicker highlight selecting.

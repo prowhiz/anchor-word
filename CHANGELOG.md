@@ -4,6 +4,21 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.29.0 (build 37) — 8 October 2026
+
+See which folder a note lives in, and quicker highlight selecting.
+
+- **Notes on a verse name their folder.** Tap a verse and open its notes, and
+  each note filed in a folder shows the folder's name beside its tags. A note
+  that isn't in a folder shows nothing extra, and the Library looks the same
+  as before.
+- **Selecting highlights keeps up with you.** Tapping highlights in the
+  Library to select them used to lag, especially with a long list. Each tap
+  now responds as quickly as it does for notes.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0.
+
 ## 0.28.0 (build 36) — 8 October 2026
 
 Sharing highlights, and a tidier quote.

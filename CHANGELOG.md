@@ -4,6 +4,47 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.31.1 (build 40) — 12 October 2026
+
+0.31.0, with one more fix found before it went out.
+
+- **Closing a note brings you back to your verse.** If you followed a
+  reference from a note into the Bible and scrolled there, closing the note
+  could put you back in the right chapter but a few screens above the verse
+  you started from. It now comes back at that verse, with its options open.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0 through a folder or a server.
+
+## 0.31.0 (build 39) — 12 October 2026
+
+Sync through Google Drive, and notes and the Bible keep your place between them.
+
+- **Sync through Google Drive.** Settings → Sync can now keep your library in
+  your own Google Drive. You sign in on Google's own screen and allow Anchor
+  Word one folder of its own, hidden from your files; it can't see anything
+  else in your Drive. Every device you sync this way needs this version.
+- **Going from a note to the Bible keeps your place.** When you follow a
+  reference from a note and come back, the reader stays on the passage you
+  ended on, in the translation you were reading, and Back still takes you
+  along the way you went. Closing a note returns the chapter to where you had
+  scrolled it.
+- **"vs" works in a reference.** "Psalm 23 vs 2", "John 3 v16" and
+  "Jude vs 3" now go where you mean, in the passage picker, in notes, and
+  in Quote and Find references.
+- **More time to Undo.** Deleting a note, folder, highlight or bookmark now
+  gives you 8 seconds to Undo, and longer with TalkBack on. Removing a
+  translation that is no longer offered asks first, since it can't be got
+  back once its Undo runs out.
+- **Messages in the Library no longer cover New note.**
+
+The privacy policy at anchorword.app/privacy now has a section on Google
+Drive: what the app can reach there, what it keeps, and how to take its
+access back.
+
+Nothing in your library changes when you update, and this build still syncs
+with a device on 0.9.0 through a folder or a server.
+
 ## 0.30.0 (build 38) — 9 October 2026
 
 The American Standard Version is no longer offered to new readers.

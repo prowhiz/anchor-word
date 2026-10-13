@@ -4,6 +4,34 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.32.0 (build 41) — 13 October 2026
+
+A note can be about several passages, and selecting is easier in notes and
+Word Study.
+
+- **A note can be anchored to several passages.** A note on Colossians 1:4-5
+  and Ephesians 1:15 can now belong to both. Tap + beside a note's passage to
+  add another. Up to three show at the top of the note: tap one to read it, or
+  its x to remove it, with Undo. The rest open from "more". The note is marked
+  in the margin at each passage, shows in each verse's notes, and is found
+  under each book in the Library. A passage can have gaps, such as
+  Colossians 1:4-5, 9. Notes you already have keep their one passage.
+- **Note cards are tidier.** A card shows its first passage with a count of
+  the rest, and its folder and date on a line of their own.
+- **Select text reaches the end of a note.** In Select text, a note now has
+  room to scroll its last lines up the screen, so they can be selected
+  without your finger at the very bottom edge.
+- **Selecting verses in Word Study.** Once you press and hold a verse to
+  select it, the word underlines fade and tapping a word adds its verse to
+  the selection instead of opening the word. Everything comes back when the
+  selection closes.
+
+**Update every device you sync.** This version keeps a note's passages in a
+new way. Once a device on 0.32.0 has synced, a device still on an older
+version says "Update the app here to sync with it." and waits. Nothing is
+lost: it syncs as soon as it is updated. A backup made on this version needs
+this version or newer to restore.
+
 ## 0.31.1 (build 40) — 12 October 2026
 
 0.31.0, with one more fix found before it went out.

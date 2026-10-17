@@ -4,6 +4,48 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.33.0 (build 42) — 17 October 2026
+
+Pick out several things at once anywhere in the Library and Search, bring
+in several Bibles in one go, and Back takes you where you came from.
+
+- **Press and hold to select.** In Notes, Highlights, Bookmarks, Folders
+  and Search, press and hold an item to start selecting. Every item shows a
+  circle to tick, and the bar at the top offers Select all, one common
+  action and a menu with the rest. Move several notes into a folder at
+  once, change the colour of several highlights together, delete bookmarks
+  or folders in one go, all with Undo.
+- **Gather verses from Search.** Select verses in your search results to
+  highlight them all, copy or share them, or start a new note that quotes
+  each one in Bible order.
+- **Import while you read.** After you press Import, you go straight back to
+  Resources and the Bible builds there like a download, with its progress
+  and a Stop button. Read in the meantime, and a message says when it is
+  ready. Keep the app open until it finishes.
+- **Several Bibles at once.** Import from a file now takes several files,
+  a zip holding several Bibles, or a whole folder with Import a folder. They
+  open as one list where you check each one, then a single Import brings in
+  them all, one after another. A file with no abbreviation gets one
+  suggested.
+- **Search in chosen books.** Search in is now one list of testaments,
+  their divisions and their books. Tick any mix, such as the Law, History
+  and Matthew, on one page, or type a book's name to find it.
+- **Each list keeps its own sort.** Notes, folders, highlights and
+  bookmarks each remember their sort, either way round, after the app
+  closes. Highlights sort by the date you made them, and A to Z puts
+  Day 2 before Day 10.
+- **Back returns to your list.** A verse opened from Highlights, Bookmarks
+  or Search goes back to that list with Back, at the same place and with
+  the same filter or search. Back with items selected clears the selection
+  first.
+- **A better first run.** A new reader can pick word study, cross
+  references and study notes together, is shown where to change the look,
+  and once they have written a note, the Library offers to keep their notes
+  safe with sync.
+
+Nothing in your library changes when you update, and this version syncs
+with a device on 0.32.0.
+
 ## 0.32.0 (build 41) — 13 October 2026
 
 A note can be about several passages, and selecting is easier in notes and

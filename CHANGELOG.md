@@ -4,6 +4,33 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.34.0 (build 43) — 19 October 2026
+
+Open your MySword and e-Sword Bible files, write lists in notes more
+easily, and read on a tablet or foldable turned whichever way you like.
+
+- **MySword and e-Sword Bibles.** Open your MySword and e-Sword Bible
+  files, Strong's numbers included. Import from a file takes them alone,
+  several at once, in a zip or in a folder. Tapping a word opens Word
+  Study, and their section headings are kept. Locked e-Sword Bibles still
+  can't be brought in.
+- **Imports finish sooner.** A Bible you bring in now builds about four
+  times faster, so a full Bible with Strong's numbers is ready in under a
+  minute on a recent phone.
+- **Lists in notes behave.** One backspace on a new, empty number gives
+  you a fresh line inside the item above, and a second leaves the list. A
+  verse quoted into a list item stays inside that item, and its wrapped
+  lines line up under the item's words. A number you deleted no longer
+  comes back, and an empty one left at the end of a note goes away.
+- **Tablets and foldables turn.** On a tablet, or a foldable opened out,
+  the app turns with the screen, in split screen too. Phones stay upright.
+- **Big screens fit.** On a tablet all six verse actions fit in the
+  sheet, the reader's controls stay beside the text, and in a short split
+  window New note becomes an icon so it no longer covers the search.
+
+Nothing in your library changes when you update, and this version syncs
+with a device on 0.33.0.
+
 ## 0.33.0 (build 42) — 17 October 2026
 
 Pick out several things at once anywhere in the Library and Search, bring

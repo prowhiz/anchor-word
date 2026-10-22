@@ -4,6 +4,37 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.35.0 (build 44) — 22 October 2026
+
+Tag your notes and find them again by tag, read two commentaries side by
+side, and open a long commentary note full screen.
+
+- **Tags on notes.** Give a note a tag or two, like #Family or
+  #SundaySermon, and find it again by that tag. Tap Add tag under a note's
+  verses; tags you already use are offered first. A tag is one word, so
+  "Leaders meeting" becomes #LeadersMeeting. The Library's note lists can
+  show just one tag, and Search finds notes by their tags.
+- **Tidy your tags.** The Library has a Tags list beside Folders, with how
+  many notes use each. Rename a tag, merge two that mean the same thing, or
+  delete one, and Undo puts it back. Press and hold to pick several at once.
+- **Two commentaries side by side.** Jamieson, Fausset and Brown can now be
+  downloaded from Resources, beside the Tyndale notes. With both, tapping a
+  verse shows what each one says, and you choose which to read. Change
+  order in Resources sets which comes first.
+- **Long notes open full screen.** When a commentary note runs past its
+  sheet, Full note opens it on a page of its own at your reading text size.
+  Back returns you to the sheet.
+- **Sheets fit what they hold.** Cross-refs, Compare and commentary sheets
+  are only as tall as what's in them, so a short note no longer opens a
+  tall empty sheet.
+- **Fixes.** A verse partway through a paragraph now moves up clear of the
+  sheet you opened it with. A stray line under Import a folder in More
+  translations is gone.
+
+Nothing in your library changes when you update, and this version syncs
+with a device on 0.34.0. Tags with spaces in them, from an older version
+or a backup, read as one word from now on.
+
 ## 0.34.0 (build 43) — 19 October 2026
 
 Open your MySword and e-Sword Bible files, write lists in notes more

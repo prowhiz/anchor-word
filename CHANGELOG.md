@@ -4,6 +4,32 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.36.0 (build 45) — 23 October 2026
+
+Highlight a passage as one highlight, layer one colour over another, and
+see the whole passage you arrived at.
+
+- **A passage is one highlight.** Highlighting Titus 2:7-8 now makes a
+  single highlight, listed once in the Library as Titus 2:7-8. Change its
+  colour, remove it, share it or copy it, and the whole passage goes
+  together, with its verse numbers in the text.
+- **Colours can overlap.** Give verses that are already highlighted a
+  second colour and both stay. The newest colour lies over the words, and
+  each earlier one shows as a narrow stroke just before the verse, oldest
+  outermost. Each colour in the verse actions sheet turns on or off by
+  itself, and Clear takes them all off. In the Library a passage is filed
+  under each colour it has.
+- **See the whole passage you arrived at.** Opening a cross reference, a
+  note, a commentary section or a typed range like Titus 2:7-8 marks every
+  verse of it with a line down the margin, not just the first, in prose as
+  well as in verses. Your highlights stay visible while it shows.
+
+Your highlights carry over when you update: verses next to each other in
+the same colour become one highlight. Update every device you sync before
+highlighting again, as a device still on 0.35.0 can't read a library from
+this version and stops syncing until it is updated. For the same reason, a
+backup made on this version restores only on 0.36.0 or later.
+
 ## 0.35.0 (build 44) — 22 October 2026
 
 Tag your notes and find them again by tag, read two commentaries side by

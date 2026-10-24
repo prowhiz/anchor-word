@@ -4,6 +4,24 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.37.0 (build 46) — 24 October 2026
+
+The whole verse menu on trips from a note, passages that arrive fully
+in view, and sheets that stay above the keyboard.
+
+- **The full verse menu on a trip from a note.** When you leave a note to
+  pick a verse to quote, link or anchor to, tapping a verse now shows the
+  same menu as the reader: highlight colours, Cross-refs, Commentary,
+  Compare, Copy and Share, with Quote and Link or Anchor to underneath.
+  Highlight a verse along the way and you are still on your trip.
+- **A passage arrives in full view.** Opening a passage like Titus 2:7-8
+  now scrolls so the whole of it sits clear of the navigator, not only its
+  first verse. A passage found by name in Search, such as the Parable of
+  the Prodigal Son, and Compare's Read on mark every verse they cover.
+- **Sheets stay above the keyboard.** The Tags sheet in the note editor,
+  and every other sheet with a field to type in, now rises above the
+  keyboard as soon as it opens, instead of sitting behind it.
+
 ## 0.36.0 (build 45) — 23 October 2026
 
 Highlight a passage as one highlight, layer one colour over another, and

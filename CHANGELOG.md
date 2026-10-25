@@ -4,6 +4,34 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.38.0 (build 47) — 25 October 2026
+
+Pick up where your other phone left off, keep each phone looking the
+way you like it, and a run of smaller fixes.
+
+- **Carry on where your other phone left off.** After Drive sync brings
+  in another device's library, Anchor Word offers where you were reading
+  on it, once, with Go there. That place also leads the Recent strip in
+  the passage picker, named for the device. Nothing moves you unless you
+  tap it.
+- **Phones go by their own names.** Synced devices are now called by the
+  name in their Settings, like OnePlus 9R, instead of a model number.
+- **Each phone keeps its own look.** Theme, line spacing, verse or prose
+  and the page's switches stay on the device you set them on. Only your
+  highlight colours' names travel between devices. A backup still
+  restores every setting.
+- **A note is only edited when it changes.** Opening a note and closing
+  it again, or putting it back word for word, no longer moves it to the
+  top of Last edited.
+- **A Full note shows only its own verses.** A commentary note on a
+  passage such as Hebrews 6:19-20 no longer repeats the whole chapter
+  above it.
+- **The Tags sheet stays above the keyboard** while you type a tag.
+- **A tidier, more even look.** Cards, buttons, spacing and line heights
+  are now the same across every screen, cards keep their outline in the
+  High contrast and black themes, and the word peek's labels no longer
+  break in two at a large text size.
+
 ## 0.37.0 (build 46) — 24 October 2026
 
 The whole verse menu on trips from a note, passages that arrive fully

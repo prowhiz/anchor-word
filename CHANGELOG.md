@@ -4,6 +4,37 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.39.0 (build 48) — 26 October 2026
+
+A passage picker that just gets you there, a Library in three tabs, and
+notes you can narrow to several books at once.
+
+- **Type a place and go.** The passage picker opens on one field, Book or
+  reference. Type John 3:16-4:2 and a card says exactly where you will
+  land, and Go takes you there with the passage marked. Type words
+  instead, like prodigal son, and it hands them to Search, which finds
+  named passages as well as verses.
+- **Old Testament and New Testament tabs.** With nothing typed, two tabs
+  sit above the books, show which testament you are looking at, and take
+  you to either in one tap.
+- **Anchoring a note happens in the reader.** Add anchor and Change anchor
+  take you to the Bible to pick the verses, and bring you back to your
+  note.
+- **The Library has three tabs.** Notes, Highlights and Bookmarks sit
+  under the title, each one tap away. Notes keeps your folders, tags, and
+  your place in the list.
+- **Filter notes by several books.** Filter by book now uses the same
+  book tree as Search in, so you can pick Romans and Galatians together,
+  or a whole division such as the Gospels.
+- **Sort and filters stay on one line.** The filters sit on the left and
+  the sort on the right, so the list no longer gets pushed down on a
+  narrow phone or at a large text size.
+- **Smaller fixes.** The last highlight colour is no longer cut off on a
+  narrow phone, and the opening lines of a Hebrew or Greek word study
+  entry show whole and follow your line spacing. The line under each
+  button on Backup, import & export and Resources now sits clearly apart
+  from it, so you can tell which button it describes.
+
 ## 0.38.0 (build 47) — 25 October 2026
 
 Pick up where your other phone left off, keep each phone looking the

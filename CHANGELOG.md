@@ -4,6 +4,37 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.40.0 (build 49) — 27 October 2026
+
+Write notes for long enough and they pile up: a sermon from March, a
+study from last year, a thought you meant to come back to. One by one
+they sink under newer notes until you forget they are there. This
+release is about keeping them in reach.
+
+- **Pin the notes you mean to come back to.** A sermon you are still
+  working through, or a study you return to every week, can be pinned
+  so it never sinks. Pin to the top is in a note's menu, and in the ⋮
+  menu when you have several selected. Pinned notes stay above the
+  rest under a Pinned heading whatever the sort, with a small pin on
+  each card. Unpin when you are done with it, and Undo is there if you
+  tap the wrong one.
+- **Find your way back to older notes.** The list now has headings, so
+  you can see where you are in months of notes. Sorted by date it reads
+  Today, Yesterday, This week, then month by month, so last March's
+  sermon notes are under March. Sorted by book, each book has its own
+  heading, and A to Z goes by first letter. The heading you are in
+  stays at the top of the screen as you scroll.
+- **Get to the bottom of a long list quickly.** When your notes run to
+  several screens, a handle appears at the right edge as you scroll.
+  Drag it to run through the whole list, with a label showing the month,
+  book or letter you are passing, and let go where you want to be. It
+  fades once you stop.
+
+Update every device you sync. A device on 0.39.0 or earlier can't read a
+library from this version and stops syncing until it is updated, so that
+it never quietly unpins your notes. For the same reason, a backup made on
+this version restores only on 0.40.0 or later.
+
 ## 0.39.0 (build 48) — 26 October 2026
 
 A passage picker that just gets you there, a Library in three tabs, and

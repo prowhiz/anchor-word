@@ -4,6 +4,31 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.41.0 (build 50) — 29 October 2026
+
+Bring the notes you already have into Anchor Word, choose what happens
+to a folder's notes when you delete it, and a smoother notes list.
+
+- **Bring your notes with you.** Years of notes kept in another app no
+  longer have to stay there. Settings, then Backup, import & export, has
+  one Import for any file, and it reads four kinds of notes: Markdown
+  (.md), including Anchor Word's own export and notes from apps like
+  Obsidian; plain text (.txt); MySword verse notes (versenotes.mybible),
+  each note on the verses it was written on; and MySword journals
+  (.jor.mybible), each journal as a folder of its own. You see how many
+  notes a file holds before anything changes, and every note keeps the
+  day you wrote it. Import the same file twice and the notes already
+  here stay as they are. What can I import? lists everything Anchor Word
+  reads, Bibles and backups included.
+- **Keep the notes when you delete a folder.** Delete folder now asks
+  what should happen to the notes inside: keep them, unfiled, or delete
+  them with the folder. Either way, Undo puts everything back as it was.
+  An empty folder still goes in one tap.
+- **A smoother notes list.** Scrolling back up a long list after a fast
+  jump no longer shows a blank screen, and the month at the top keeps up
+  with a quick fling. A fast drag on the scroller now waits until you
+  slow down or let go before the list follows.
+
 ## 0.40.0 (build 49) — 27 October 2026
 
 Write notes for long enough and they pile up: a sermon from March, a

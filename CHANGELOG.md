@@ -4,6 +4,43 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.42.0 (build 51) — 1 November 2026
+
+A notes list you can read at a glance, with folders and tags that each do
+one job, and commentaries from MySword beside Tyndale's.
+
+- **More of your notes fit on the screen.** Each note is now a row rather
+  than a card, so a screen shows four or five notes instead of three. The
+  title has a line of its own, and a long one wraps onto a second line
+  instead of being cut short. Under it are the first words of the note,
+  then its verses, its tags and the date.
+- **Search your notes from anywhere in the list.** The search field sits
+  at the top of the Library and stays there however far down you scroll.
+  It now runs the full width of the screen, in Search too.
+- **Folders are places, tags are filters.** All notes and Folders sit
+  side by side under the tabs. Folders lists your folders with how many
+  notes each holds, and Unfiled for notes in none; tap one to open it. To
+  narrow a list, use Tag or Book: the chip then reads, for example,
+  #Hope, and its × clears it. Manage tags, to rename, merge or delete a
+  tag, is at the foot of the Tag sheet.
+- **Rename or delete a folder where you see it.** Every folder in the
+  list has a ⋮ with Rename and Delete, and so does an open folder, beside
+  its name.
+- **New note keeps out of the way.** As you read down the list, the New
+  note button shrinks to its icon, and comes back in full when you scroll
+  up or reach the top.
+- **Settings is on the Read screen.** The gear beside the search in the
+  Library and in Search is gone, to give the search the whole row. Tap
+  Read, then the gear at the top. A dot on that gear still says when an
+  update is waiting.
+- **Read a MySword commentary beside Tyndale's notes.** Import a MySword
+  commentary (.cmt.mybible) from Settings, then Backup, import & export,
+  then Import. Before anything changes you see its name, how many notes
+  it holds and on which books. Once imported it sits in the commentary
+  sheet next to Tyndale and JFB, marked Imported, in the app's own font
+  and theme, with its verse links working. Rename or remove it in
+  Resources, under Commentary. Locked modules can't be imported.
+
 ## 0.41.0 (build 50) — 29 October 2026
 
 Bring the notes you already have into Anchor Word, choose what happens

@@ -4,6 +4,18 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 0.42.1 (build 52) — 1 November 2026
+
+A fix for importing commentaries.
+
+- **A commentary being imported shows where commentaries are.** Importing
+  a MySword commentary showed its progress under More translations in
+  Resources, as if a Bible were arriving. It now shows under
+  Commentary, with its Stop.
+- **Commentary has its own Import.** In Resources, Commentary now
+  has an Import button, as More translations does, so you can bring in a
+  MySword commentary from where your commentaries are listed.
+
 ## 0.42.0 (build 51) — 1 November 2026
 
 A notes list you can read at a glance, with folders and tags that each do

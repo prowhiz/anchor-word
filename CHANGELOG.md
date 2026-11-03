@@ -4,6 +4,48 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.0.0 (build 53) — 2 November 2026
+
+Anchor Word 1.0, the first release for everyone on Google Play. Moving
+around the app now feels like one place: every screen says where Back
+goes, pages slide the way you went, and the app picks up where you left
+it even after Android closes it.
+
+- **Back always says where it goes.** A screen you can leave shows the
+  Android back arrow with the name of where it returns to, and screens
+  slide in and out the way you moved. Back inside a menu steps up the
+  way you came instead of closing it, and Back from the Library returns
+  you to the place you were reading.
+- **Turning a chapter turns the page.** ‹ and › slide the next chapter
+  in from the side they point to, so you can see which way you went.
+- **Pick up where you left off.** If Android closes Anchor Word in the
+  background, a note you had open opens again, and Back still walks
+  through the passages you read in the last day. Holding the back arrow
+  in the reader lists those stops, so you can jump to any of them.
+- **Back from the reader shows what is behind it.** With gesture
+  navigation on Android 13 and later, starting the Back swipe at the
+  reader shows the home screen, so you can see you are about to leave.
+  With the three-button bar, Back still asks first.
+- **Search keeps its place.** Coming back to Search returns you to the
+  result you left, and each group's heading stays at the top as you
+  scroll, as the months do in the notes list.
+- **Tidier tags.** Manage tags sits at the foot of the Tag sheet. Tags
+  that are nearly the same, such as #Prayer and #Prayers, are pointed
+  out, with a Merge button that joins them in one tap.
+- **Links to a passage.** A link such as anchorword://John 3:16 opens
+  that passage in Anchor Word, scrolled to the verse and marked.
+- **Text size follows your finger.** The type size control now moves
+  with you as you drag along it, and the app takes the new size when you
+  let go. Chapter titles now grow and shrink with the text too.
+- **Making a folder puts the keyboard away.** After Create folder, the
+  keyboard used to come back up for the Library's search field. It now
+  goes away with the sheet.
+
+The privacy policy at anchorword.app/privacy changed on 1 November 2026. Its
+summary now names Google Drive among the places you can sync to, and it says
+you need no account rather than that the app has none. What the app does with
+your information has not changed.
+
 ## 0.42.1 (build 52) — 1 November 2026
 
 A fix for importing commentaries.

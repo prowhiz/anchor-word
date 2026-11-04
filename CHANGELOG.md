@@ -4,6 +4,32 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.1.0 (build 54) — 4 November 2026
+
+A verse you share now brings a link with it, so whoever you send it to
+can tap through and keep reading, in Anchor Word or on the web.
+
+- **Shared verses open where they point.** Share from the verse menu
+  adds a line such as anchorword.app/Romans.8.28-30 under the
+  reference. On a phone with Anchor Word, tapping it opens that passage
+  in the reader. Anywhere else it opens a page on anchorword.app with
+  the passage in the translation you shared from, if it is the Berean
+  Standard Bible, the King James Version, the World English Bible or
+  the Literal Standard Version, and in the Berean Standard Bible
+  otherwise. The page has its own text size and theme, and a button to
+  open or get the app. Copy stays as it was, with no link.
+- **Exported notes link their references.** In a Markdown export from
+  the Library, every reference in a note becomes a link of the same
+  kind. Importing that file back turns the links into plain references
+  again.
+- **Note titles follow your text size.** In the Library and in a
+  verse's notes, a note's title and preview grow and shrink with the
+  text size, as chapter titles already do. The line with its date and
+  tags stays put.
+- **Bookmarks stand clear of the arrival line.** A bookmarked verse you
+  arrived at drew its ribbon over the line that marks where you landed.
+  The ribbon now sits in the space beside it.
+
 ## 1.0.0 (build 53) — 2 November 2026
 
 Anchor Word 1.0, the first release for everyone on Google Play. Moving

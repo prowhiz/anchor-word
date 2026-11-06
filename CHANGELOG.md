@@ -4,6 +4,42 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.2.0 (build 55) — 6 November 2026
+
+Imports and downloads now show how far they've got from any screen, and
+reading in prose looks and behaves like reading verse by verse.
+
+- **See imports and downloads from anywhere.** While a Bible or
+  commentary imports, or a package downloads, a thin line in your
+  accent colour fills along the top of the bottom bar. You can go back
+  to reading and still see the work move. When the run ends, the line
+  fills and fades as the summary appears.
+- **Back no longer drops an import.** Pressing Back from the reader
+  while an import was running closed the app, and the import with it,
+  without a word. Now the first press tells you that closing will stop
+  the import, and only a second press closes.
+- **Commentary opens full screen.** With one commentary installed, the
+  Commentary tile opens its note full screen, and a reference in it
+  opens as a peek over the note. Follow a link to another page and come
+  back, and you're where you were reading rather than at the top.
+- **Pull a sheet down by its title.** Sheets now close when you drag
+  their title row as well as the grip above it, and the title stays put
+  while the content scrolls.
+- **Prose matches verse by verse.** In prose, a highlight is a narrow
+  band behind the words instead of a solid block, a selection is one
+  rounded shape, and a verse in several colours shows the earlier ones
+  as thin strokes. A verse number stays on the same line as its verse,
+  and the place pill names a verse you can actually see.
+- **Selected highlights show they're selected.** Selecting a
+  highlighted verse deepens its colour, so you can tell it's selected in
+  both layouts.
+- **A quieter arrival line.** The line marking the verse you arrived
+  at is thinner and closer to the words, and a bookmark sits in its own
+  space beside it.
+- **High contrast appears once.** Its theme tile now shows both its
+  light and dark sides, and the True black switch, which did nothing
+  for it, is hidden while High contrast is chosen.
+
 ## 1.1.0 (build 54) — 4 November 2026
 
 A verse you share now brings a link with it, so whoever you send it to

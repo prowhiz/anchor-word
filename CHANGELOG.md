@@ -4,6 +4,33 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.3.0 (build 56) — 7 November 2026
+
+Adding, ordering and removing Bibles and commentaries is now much
+easier.
+
+- **Your Bibles and commentaries are easier to manage.** Open
+  Resources and you'll see Translations and Commentaries as two
+  separate rows. Tap one to see everything you have of that kind, all
+  in one place:
+  - To get a new one, tap **Add a translation**. You can download one
+    or pick a Bible file from your phone.
+  - To change the order they appear in, tap **Edit** and drag them
+    where you want, or sort them A to Z or newest first.
+  - To delete some, tap **Edit**, tick the ones you don't want and tap
+    Remove. Changed your mind? Tap Undo.
+- **Bibles you import have better names.** Before, a Bible file from
+  the internet could show up with a strange name, like a copyright
+  notice or "ENGLISHCEV". Now the app fills in a proper name, such as
+  "Contemporary English Version", with its short name and language.
+  You can still change them before you add it.
+- **Tell us what you think.** Settings has two new buttons, Send
+  feedback and Write a review. If you got the app from Google Play,
+  it may also ask you once to rate it.
+- **Fixed:** the thin progress line at the bottom of the screen
+  during an import sometimes started in the middle. It now starts at
+  the left.
+
 ## 1.2.0 (build 55) — 6 November 2026
 
 Imports and downloads now show how far they've got from any screen, and

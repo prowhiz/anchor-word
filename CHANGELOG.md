@@ -4,6 +4,35 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.4.0 (build 57) — 10 November 2026
+
+Writing notes feels more like reading them, and a few everyday things
+got smoother.
+
+- **Notes scroll smoothly while you write.** Before, a long note you
+  were writing stopped dead the moment you lifted your finger. Now a
+  quick flick keeps it gliding, just like the Bible text and your lists
+  do. Touch the screen to stop it.
+- **Headings look the same while you write.** A heading you typed used
+  to be only bold, then jumped to a bigger size when you finished the
+  note. Now it's the right size from the start.
+- **Introductions are one tap away.** With two or more commentaries,
+  tap the chapter number to see the list of commentaries. Each one
+  that has an introduction to the book now shows an **Introduction**
+  button under it. Tap it to read the introduction full screen.
+- **The fast scroller is easier to spot.** In long lists, the handle
+  you drag down the right edge is now a small red tab with arrows, so
+  it's clear you can hold it and pull.
+- **Tags read as you type them.** Each word in a tag name now gets a
+  capital letter as you type, so "Leaders Meeting" in the box is the
+  same as the LeadersMeeting tag you get.
+- **Fixed:** pausing a download and then resuming it could make it fail
+  with "did not arrive intact". It now picks up exactly where it
+  stopped.
+- **Fixed:** in Resources, when you tapped Edit and dragged the top
+  Bible up or the bottom one down, it got cut off at the edge of the
+  list. It now stays whole while you move it.
+
 ## 1.3.0 (build 56) — 7 November 2026
 
 Adding, ordering and removing Bibles and commentaries is now much

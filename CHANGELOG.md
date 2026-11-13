@@ -4,6 +4,32 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.5.0 (build 58) — 12 November 2026
+
+Search finds verses the way you remember them, and commentary notes
+quote the words they're explaining.
+
+- **Search finds a verse even if you remember it from another Bible.**
+  Say you search for "I have overcome the world" while reading a Bible
+  that says "conquered". Before, you got nothing useful, only verses
+  that happened to share a few of the words. Now, when the Bible you're
+  reading has no match, the app looks in the other Bibles on your phone
+  too. What it finds shows under **In your other translations**, with
+  the Bible's short name beside each verse. Tap one to open that verse
+  in the Bible you're reading.
+- **Search highlights just the words you looked for.** When you search
+  for a phrase, only that phrase is highlighted in each verse, not
+  every "of" or "be" elsewhere in it.
+- **Commentary notes match the verse above them.** Jamieson, Fausset
+  and Brown explains the King James wording. Before, the verse at the
+  top of a note was shown in whatever Bible you were reading, so the
+  note could quote words that weren't there. Now that verse is shown in
+  the King James wording, with "Base text: KJV" under it. If you're
+  already reading the KJV, nothing looks different.
+- **Fixed:** with a large text size, the Bible / Notes / Greek & Hebrew
+  buttons at the top of Search were cut off at the right. They now
+  slide out to the edge of the screen, and you can scroll them.
+
 ## 1.4.0 (build 57) — 10 November 2026
 
 Writing notes feels more like reading them, and a few everyday things

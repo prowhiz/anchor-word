@@ -4,6 +4,57 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.6.0 (build 59) — 14 November 2026
+
+You can choose which Bible a commentary quotes, filing notes is
+quicker, the bars at the top of each page behave the same everywhere,
+and dozens of small things that went wrong now don't.
+
+- **Move to folder puts your latest folder first.** Before, you had to
+  find the same folder in the list every time you filed a note. Now the
+  folder you last filed a note in, or last edited a note in, is at the
+  top.
+- **Choose which Bible a commentary note quotes.** Under the verse at
+  the top of a full commentary note, the line that says which Bible it
+  is in, such as **Base text: KJV**, can now be tapped. Pick any Bible
+  on your phone, or **Reading translation** to match what you're
+  reading. Before, you couldn't change it, so a commentary you imported
+  always showed your reading Bible even when its notes quote another.
+  You can also set it from the commentary's page in Resources. The
+  choice is kept on this phone.
+- **Page titles behave the same on every page.** Each page opens with
+  its name in large type, and as you scroll, the name slides up into
+  the bar at the top. Reading & display, your folders and Tags now work
+  this way too, and a folder's ⋮ menu stays at the top however far you
+  scroll.
+- **Selecting no longer hides the Library's tabs.** When you long-press
+  to select notes, highlights or bookmarks, the selection bar now
+  covers only the top row, and the list stays exactly where it was.
+- **Changing your phone's text size or dark mode no longer upsets the
+  app.** Android redraws every open app when you change these. Before,
+  the Bible could jump to another verse, the chapter title could lose
+  its number, a note you were writing could stop letting you type, and
+  the welcome screen could even come back. Now everything stays as it
+  was.
+- **Switching translations keeps your place.** The new translation
+  opens on the verse you were reading, not somewhere else in the
+  chapter.
+- **Searches start at the top.** A new search, a pasted one, or a new
+  book or tag filter in the Library sometimes opened partway down the
+  results. It now opens at the first one.
+- **Fixed in notes:** pressing Return in a title now moves you to the
+  body even when your keyboard corrects the word as you press it.
+  Pasting a line onto a numbered list no longer adds a stray number.
+  Undo after changing a note's verse keeps what you typed since. A
+  quick double tap in the Tags sheet adds one tag and takes none away.
+- **Fixed Undo:** undoing a folder delete keeps its notes' "Last
+  edited" dates, and undoing a highlight leaves your other highlights
+  in that chapter alone.
+- **Fixed in downloads and sync:** pressing Pause straight after Resume
+  now pauses. Notes brought back from a backup no longer disappear
+  again at the next sync. Going Back while setting up sync now really
+  leaves it.
+
 ## 1.5.0 (build 58) — 12 November 2026
 
 Search finds verses the way you remember them, and commentary notes

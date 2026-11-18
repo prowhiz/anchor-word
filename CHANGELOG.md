@@ -4,29 +4,27 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
-## 1.7.0 (build 60) — 16 November 2026
+## 1.7.0 (build 61) — 18 November 2026
 
-You can read and write side by side on a tablet, choose the font you
-read in, and bring in a Bible of your own in seconds instead of about a
-minute.
+You can choose the font you read in, find a Greek or Hebrew word by how
+it's spelled, reach Settings from every tab, and bring in a Bible of
+your own in seconds instead of about a minute.
 
-- **Read and write side by side on a tablet.** On a tablet, or a phone
-  turned on its side, a note now opens beside the Bible instead of
-  covering it. Tap a verse and choose Quote, Link or Anchor to put it
-  straight into the note you're writing. A verse link in the note opens
-  in the Bible beside it, so you never lose your place. Drag the line
-  between the two to give either side more room. The tabs move to a
-  strip down the left edge, and the **Folio** button at its foot puts
-  the second side away and brings it back.
-- **Two Bibles side by side.** On a tablet, tap the translation's name
-  and choose **Open another beside** to read a second translation next
-  to the first. It keeps to the same verse as you scroll. Tap the round
-  link button on the line between them to let each one move on its own.
 - **Six fonts to read in.** Tap **Aa** above the Bible, or go to
   Settings, then Reading & display, and choose Literata, Source Serif,
   EB Garamond, Source Sans, Open Sans or Inter. The font is used for
   the Bible, your notes and commentaries. Menus and buttons stay as
   they are.
+- **Find Greek and Hebrew words by spelling.** In Search, choose
+  **Greek & Hebrew** and type a word as you'd say it, such as
+  "parakletos" or "chesed", or in its own letters. You no longer need
+  its Strong's number. Accents and small spelling differences (chesed or
+  hesed) don't matter. You can also type the English: "comforter" finds
+  the Greek and Hebrew words the Bible translates that way, with how
+  often each is used.
+- **Settings from every tab.** The Library and Search now have the gear
+  at the top, as the Bible already did. It slides out of the way as you
+  scroll down and comes back as soon as you scroll up.
 - **Copying is tidier.** In the ⋮ menu of a note, a highlight or a
   Search selection, there is now one **Copy** row. Tap it, then choose
   Plain text or Markdown. The note menu now starts with Share and Copy,
@@ -41,9 +39,17 @@ minute.
   and you can fill in the name while the rest of the Bible is read.
   Tapping Import then finishes in a few seconds. Long names now wrap
   onto a second line instead of running off the edge.
+- **Easier to see where you are.** The tab you're on now sits in a soft
+  round highlight. A choice you've made, such as a filter, a sort or a
+  font, has a quiet fill instead of the bright colour, which is now kept
+  for switches that are on.
+- **New note is now a round pencil button** in the Library.
 - **Fixed:** a Bible file that labels two of its books with the same
   number is now turned away with a message naming the book, instead of
   stopping partway through the import.
+- **Fixed:** on some Android 13 and 14 phones, one Back on the Bible
+  closed the app without warning. Now the first Back says "Press back
+  again to close" on every phone, and the second one closes it.
 
 ## 1.6.0 (build 59) — 14 November 2026
 

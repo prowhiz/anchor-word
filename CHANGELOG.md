@@ -4,7 +4,7 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
-## 1.7.0 (build 61) — 18 November 2026
+## 1.7.0 (build 62) — 18 November 2026
 
 You can choose the font you read in, find a Greek or Hebrew word by how
 it's spelled, reach Settings from every tab, and bring in a Bible of

@@ -4,6 +4,44 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.8.0 (build 63) — 19 November 2026
+
+On a tablet you can now keep two things open side by side: the Bible
+and a note, two translations, or the Bible and your study. Notes are
+also easier to format and to send to another phone.
+
+- **Folio: two sides on a tablet.** On a tablet, or a phone turned on
+  its side, the tabs move to a strip down the left edge. Tap **Folio**
+  at its foot to open a second side, and tap it again to put it away.
+  Drag the small handle between the two to give either side more room,
+  and double-tap it to make them even.
+- **Write beside the Bible.** A note opens on the other side from the
+  verse or list you picked it from, so the Bible stays in view. Tap a
+  verse and choose Quote, Link or Anchor to put it straight into the
+  note you're writing.
+- **Two Bibles side by side.** Tap the translation's name and choose
+  **Open another beside**. The two keep to the same verse as you
+  scroll. Tap the handle between them to let each move on its own, and
+  tap it again to bring them back together.
+- **Study across from the text.** In Folio, a search result, a
+  highlight, a bookmark or a cross reference opens in the Bible on the
+  other side, and a commentary opens beside the verse it explains, so
+  the list you came from stays where it was.
+- **Swap sides.** Tap **Swap** on the left strip, above Folio, to move
+  each side across, with everything on it.
+- **Bold and italic come off again.** In a note, tap B, I or the
+  highlighter a second time to take the style off. With the cursor in
+  a word, the button styles the whole word, and it lights up while the
+  cursor is in text that has that style.
+- **Send notes to another phone.** Select some notes in the Library,
+  tap ⋮, then **Share** and choose **As a file**. Send it in a chat or
+  an email, and Import on the other phone brings each note back with
+  its verses, folder and tags. **As text** shares the words as before.
+- **Verse lists across chapters.** Type a list such as "Ps 30:9; 8:10;
+  118:17" and it is read as one passage, wherever you type a reference.
+- **Fixed:** pulling a sheet up past its top and letting go left it
+  stuck there. It now drops back into place.
+
 ## 1.7.0 (build 62) — 18 November 2026
 
 You can choose the font you read in, find a Greek or Hebrew word by how

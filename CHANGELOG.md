@@ -4,7 +4,7 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
-## 1.8.0 (build 63) — 19 November 2026
+## 1.8.0 (build 64) — 20 November 2026
 
 On a tablet you can now keep two things open side by side: the Bible
 and a note, two translations, or the Bible and your study. Notes are
@@ -26,9 +26,13 @@ also easier to format and to send to another phone.
 - **Study across from the text.** In Folio, a search result, a
   highlight, a bookmark or a cross reference opens in the Bible on the
   other side, and a commentary opens beside the verse it explains, so
-  the list you came from stays where it was.
+  the list you came from stays where it was. The verse it lands on is
+  marked with a line in the margin, as it is in the main reader.
 - **Swap sides.** Tap **Swap** on the left strip, above Folio, to move
   each side across, with everything on it.
+- **Import progress on a tablet.** While a Bible imports or
+  downloads, a ring at the foot of the left strip fills with its
+  percentage. Tap it to open Resources.
 - **Bold and italic come off again.** In a note, tap B, I or the
   highlighter a second time to take the style off. With the cursor in
   a word, the button styles the whole word, and it lights up while the

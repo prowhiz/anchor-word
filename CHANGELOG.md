@@ -4,6 +4,14 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.8.1 (build 65) — 21 November 2026
+
+A fix for Back on some Android 14 phones.
+
+- **Fixed:** on some Android 14 phones, such as OPPO and OnePlus, Back
+  closed the app at once, even with a sheet open. It now closes the
+  sheet first, and asks before it closes the app.
+
 ## 1.8.0 (build 64) — 20 November 2026
 
 On a tablet you can now keep two things open side by side: the Bible

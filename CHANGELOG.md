@@ -4,6 +4,29 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
+## 1.9.0 (build 66) — 24 November 2026
+
+More room for the text on small phones, and long notes that open in
+seconds and keep up with your typing.
+
+- **More of the page while you read.** On a phone, scroll down and the
+  tab bar now tucks away with the bar at the top, so the text fills
+  the screen. A
+  small glance back up no longer brings it all down; scroll up a
+  little further, or reach the end of the chapter, and it returns.
+- **Lock the page clear.** While you read, the verse counter at the
+  bottom shows a lock. Tap it and everything else, the clock too,
+  stays out of the way whichever way you scroll. Each chapter ends
+  with a line to the next one, so you can read straight on. Tap the
+  small lock in the corner to bring it all back.
+- **Long notes are quick again.** A note of thousands of words used
+  to take minutes to open and lagged behind every letter. It now
+  opens in seconds and keeps up as you type, with spell checking as
+  before.
+- **Fixed:** in Folio on a tablet, tapping a search result with a note
+  open on the other side seemed to do nothing. The verse now opens on
+  the same side as the results, selected, ready to put into the note.
+
 ## 1.8.1 (build 65) — 21 November 2026
 
 A fix for Back on some Android 14 phones.

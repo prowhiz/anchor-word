@@ -4,10 +4,11 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
-## 1.9.0 (build 66) — 24 November 2026
+## 1.9.0 (build 67) — 25 November 2026
 
-More room for the text on small phones, and long notes that open in
-seconds and keep up with your typing.
+More room for the text on small phones, long notes that open in
+seconds, two Bibles side by side that keep level verse by verse, and
+imported Bibles that bring their footnotes with them.
 
 - **More of the page while you read.** On a phone, scroll down and the
   tab bar now tucks away with the bar at the top, so the text fills
@@ -23,6 +24,22 @@ seconds and keep up with your typing.
   to take minutes to open and lagged behind every letter. It now
   opens in seconds and keeps up as you type, with spell checking as
   before.
+- **Two Bibles that keep level.** In Folio, with two translations
+  linked, each verse now sits beside the same verse in the other,
+  however long it runs, with a faint line between verses. A verse one
+  translation leaves out says so instead of disappearing. Read as
+  paragraphs, the two break at the same places.
+- **Translators' footnotes.** A Bible you import now keeps the notes
+  its translators added, such as "Or, ..." readings. A small dagger
+  in the text opens the note; tap a verse and choose Footnote to
+  read them all. Turn the marks off under Reading display, Footnote
+  marks.
+- **References at the end of a verse.** Some Bibles print a list of
+  references after a verse, in brackets. That list is now one small
+  link at the verse's end, and tapping it opens every passage it
+  names, one after another.
+- To see footnotes and reference links in a Bible you imported
+  earlier, remove it under Resources and import it again.
 - **Fixed:** in Folio on a tablet, tapping a search result with a note
   open on the other side seemed to do nothing. The verse now opens on
   the same side as the results, selected, ready to put into the note.

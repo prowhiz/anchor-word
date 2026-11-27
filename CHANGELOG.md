@@ -4,11 +4,12 @@ What changed in each release of Anchor Word, newest first. The heading is the
 version and build number exactly as **Settings → About** shows them, which is
 what to quote when something is wrong.
 
-## 1.9.0 (build 67) — 25 November 2026
+## 1.9.0 (build 68) — 26 November 2026
 
 More room for the text on small phones, long notes that open in
-seconds, two Bibles side by side that keep level verse by verse, and
-imported Bibles that bring their footnotes with them.
+seconds, two Bibles side by side that keep level verse by verse,
+imported Bibles that bring their footnotes with them, and references
+in your notes that link however you write them.
 
 - **More of the page while you read.** On a phone, scroll down and the
   tab bar now tucks away with the bar at the top, so the text fills
@@ -38,6 +39,16 @@ imported Bibles that bring their footnotes with them.
   references after a verse, in brackets. That list is now one small
   link at the verse's end, and tapping it opens every passage it
   names, one after another.
+- **References in notes link without the @.** Write "John 3:16" or
+  "Rom 8:28" in a note and it becomes a link, as "@John 3:16" always
+  did. Notes brought in from MySword, e-Sword or Markdown link their
+  references too. A time such as "3:05" stays plain. To keep notes as
+  plain text, turn off Link references in notes, under Notes in
+  Settings.
+- **A list of references opens together.** Tap one reference in a
+  list such as "Matt 6:19; Rev 20:4" and every passage in it opens in
+  one sheet, at the one you tapped. Each passage sits in its own row,
+  as Cross-references do, and tapping a row reads it in context.
 - To see footnotes and reference links in a Bible you imported
   earlier, remove it under Resources and import it again.
 - **Fixed:** in Folio on a tablet, tapping a search result with a note
